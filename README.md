@@ -11,7 +11,7 @@ This course follows MATH 227A and 227B in establishing mathematical and computat
 
 ## Problem sets
 
-1. [Discrete probability. Fair dice.](blob/master/ProblemSets_Part1/Math227C20Sp_P1.pdf)
+1. [Discrete probability. Fair dice.](ProblemSets_Part1/Math227C20Sp_P1.pdf)
 
 2. [Discrete-state Markov chains, base pairs](blob/master/ProblemSets_Part1/Math227C20Sp_P2.pdf)
 
