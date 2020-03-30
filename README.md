@@ -11,7 +11,7 @@ This course follows MATH 227A and 227B in establishing mathematical and computat
 
 ## Problem sets
 
-1. [Discrete probability. Fair dice.](ProblemSets_Part1)
+1. [Discrete probability. Fair dice.](ProblemSets_PartI/Math227C20Sp_P1.pdf)
 
 2. [Discrete-state Markov chains, base pairs](ProblemSets_Part1)
 
@@ -25,11 +25,11 @@ This course follows MATH 227A and 227B in establishing mathematical and computat
 
 7. [Fitting linear and nonlinear regression to a power law](ProblemSets_Part1)
 
-8. [Variance-bias tradeoff of k-Nearest-Neighbors classification](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_PartII/Math227C20Sp_P08_kNN.ipynb)
+8. [Variance-bias tradeoff of k-Nearest-Neighbors classification](ProblemSets_PartII/Math227C20Sp_P08_kNN.ipynb)
 
 9. [Bootstrap and the Standard Error of the Mean, bootstrap on linear regression](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_PartII/Math227C20Sp_P09_Bootstrap.ipynb)
 
-10. [Gut microbiome, lasso and the elastic net](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part2/Math227C20Sp_P10_ElasticNet.ipynb)
+10. [Gut microbiome, lasso and the elastic net](https://github.com/allardjun/Math227C/blob/master/ProblemSets_Part2/Math227C20Sp_P10_ElasticNet.ipynb)
 
 11. [MCMC, chemical kinetics](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part2/Math227C20Sp_P11_MCMC.ipynb)
 
