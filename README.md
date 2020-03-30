@@ -11,27 +11,27 @@ This course follows MATH 227A and 227B in establishing mathematical and computat
 
 ## Problem sets
 
-1. [Discrete probability. Fair dice.](ProblemSets_Part1/Math227C20Sp_P1.pdf)
+1. [Discrete probability. Fair dice.](https://github.com/allardjun/Math227C/blob/master/ProblemSets_Part1/Math227C20Sp_P1.pdf)
 
-2. [Discrete-state Markov chains, base pairs](blob/master/ProblemSets_Part1/Math227C20Sp_P2.pdf)
+2. [Discrete-state Markov chains, base pairs](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part1/Math227C20Sp_P2.pdf)
 
-3. [Discrete-state Markov chains, MFPTs and a biologist in the rain](blob/master/ProblemSets_Part1/Math227C20Sp_P3.pdf)
+3. [Discrete-state Markov chains, MFPTs and a biologist in the rain](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part1/Math227C20Sp_P3.pdf)
 
-4. [Poisson rates, my advisor is always late, viral DNA](blob/master/ProblemSets_Part1/Math227C20Sp_P4.pdf)
+4. [Poisson rates, my advisor is always late, viral DNA](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part1/Math227C20Sp_P4.pdf)
 
-5. [Receptors, continuous-time Markov chains, and MFPTs](blob/master/ProblemSets_Part1/Math227C20Sp_P5.pdf)
+5. [Receptors, continuous-time Markov chains, and MFPTs](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part1/Math227C20Sp_P5.pdf)
 
-6. [Parametric noise in an ODE](blob/master/ProblemSets_Part1/Math227C20Sp_P6.pdf)
+6. [Parametric noise in an ODE](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part1/Math227C20Sp_P6.pdf)
 
-7. [Fitting linear and nonlinear regression to a power law](blob/master/ProblemSets_Part2/Math227C20Sp_P07_PowerLaws.ipynb)
+7. [Fitting linear and nonlinear regression to a power law](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part2/Math227C20Sp_P07_PowerLaws.ipynb)
 
-8. [Variance-bias tradeoff of k-Nearest-Neighbors classification](blob/master/ProblemSets_Part2/Math227C20Sp_P08_kNN.ipynb)
+8. [Variance-bias tradeoff of k-Nearest-Neighbors classification](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part2/Math227C20Sp_P08_kNN.ipynb)
 
-9. [Bootstrap and the Standard Error of the Mean, bootstrap on linear regression](blob/master/ProblemSets_Part2/Math227C20Sp_P09_Bootstrap.ipynb)
+9. [Bootstrap and the Standard Error of the Mean, bootstrap on linear regression](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part2/Math227C20Sp_P09_Bootstrap.ipynb)
 
-10. [Gut microbiome, lasso and the elastic net](blob/master/ProblemSets_Part2/Math227C20Sp_P10_ElasticNet.ipynb)
+10. [Gut microbiome, lasso and the elastic net](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part2/Math227C20Sp_P10_ElasticNet.ipynb)
 
-11. [MCMC, chemical kinetics](blob/master/ProblemSets_Part2/Math227C20Sp_P11_MCMC.ipynb)
+11. [MCMC, chemical kinetics](https://github.com/allardjun/Math227C/blob/master/blob/master/ProblemSets_Part2/Math227C20Sp_P11_MCMC.ipynb)
 
 12. Bonus?
 
