@@ -43,7 +43,7 @@
 %\item
 The DNA sequence of a gene determines the amino acid sequence of the protein it produces, with every 3 DNA basepairs coding for one protein amino acid. In eukaryotes, predicting the protein sequence from a gene sequence is not as simple as taking the gene sequence and splitting it into 3's, because of \emph{introns}, stretches of gene sequence that do not code for amino acids. (The regions of DNA in a gene that are not introns are called exons.)
 
-A Markov chain model has been used to detect introns, assuming the 6 states shown in the diagram.
+A Markov chain model has been used to detect introns, assuming the 6 states shown in the diagram. The index set here does not represent time, but rather represents basepairs: Each increment is the transition from the previous basepair to the neighboring basepair.
 \begin{figure}[h!]
 \centering\includegraphics[width=8cm]{figP21}
 \end{figure}
