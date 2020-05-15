@@ -4,7 +4,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# L19 Bootstrap\n",
+    "# L8.2 Bootstrap\n",
     "\n",
     "Key concepts: Parametric bootstrap, non-parametric bootstrap on a random variable. Non-parametric bootstrap on regression."
    ]
