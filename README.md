@@ -1,13 +1,11 @@
 # Math 227C: Stochastic modeling and statistical modeling for the life sciences
 
-We will edit this live in class!
-
 * The repository will be updated throughout the course, including with lecture notes. A convenient way to rapidly synchronize a copy onto your computer is using git, available openly online.
 * In the second part of the course, we will make use of Jupyter notebooks and the R programming language. The easiest way to install Jupyter and R on your machine is through Anaconda, available openly online, by first [installing Anaconda](https://www.anaconda.com/distribution/) and then [installing R](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/). We plan to start using Jupyter around the 5th week of class.
 
 ## Premise
 
-This course follows MATH 227A and 227B in establishing mathematical and computational tools useful in modeling the dynamics of biological systems. This course, MATH 227C, is in two parts: the first covers stochastic processes, where randomness plays a role in the system behavior; the second covers statistical modeling, where models, including their attributes such as parameters, are learned from data in the presence of noise or inherent randomness in the model.
+This course follows MATH 227A and 227B in establishing mathematical and computational tools that are useful in modeling the dynamics of biological systems. This course, MATH 227C, is in two parts: the first covers stochastic processes, where randomness plays a role in the system behavior; the second covers statistical modeling, where models, including their attributes such as parameters, are learned from data in the presence of noise or inherent randomness in the model.
 
 ## Lecture notes
 
