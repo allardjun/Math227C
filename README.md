@@ -31,12 +31,10 @@ This course follows MATH 227A and 227B in establishing mathematical and computat
 
 8. [Variance-bias tradeoff of k-Nearest-Neighbors classification](ProblemSets_PartII/Math227C20Sp_P08_kNN.ipynb)
 
-9. [Bootstrap and the Standard Error of the Mean, bootstrap on linear regression](ProblemSets_PartII/Math227C20Sp_P09_Bootstrap.ipynb)
+9. [Gut microbiome and the elastic net](ProblemSets_PartII/Math227C20Sp_P09_ElasticNet.ipynb)
 
-10. [Gut microbiome and the elastic net](ProblemSets_PartII/Math227C20Sp_P10_ElasticNet.ipynb)
+10. [Bootstrap and the Standard Error of the Mean, bootstrap on linear regression](ProblemSets_PartII/Math227C20Sp_P10_Bootstrap.ipynb)
 
-11. [MCMC, chemical kinetics](ProblemSets_PartII/Math227C20Sp_P11_MCMC.ipynb)
-
-12. Bonus?
+11. [MCMC and chemical kinetics](ProblemSets_PartII/Math227C20Sp_P11_MCMC.ipynb)
 
 
