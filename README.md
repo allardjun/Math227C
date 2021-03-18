@@ -9,7 +9,7 @@ This course follows MATH 227A and 227B in establishing mathematical and computat
 
 ## Lecture notes
 
-* [In-class hand notes](LectureNotes/Math227c)
+* [In-class hand notes](LectureNotes)
 
 * [In-class Jupyter notebooks](LectureNotebooks)
 
