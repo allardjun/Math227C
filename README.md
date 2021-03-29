@@ -1,5 +1,7 @@
 # Math 227C: Stochastic modeling and statistical modeling for the life sciences
 
+We will update this live in class!
+
 * The repository will be updated throughout the course, including with lecture notes. A convenient way to rapidly synchronize a copy onto your computer is using git, available openly online.
 * In the second part of the course, we will make use of Jupyter notebooks and the R programming language. The easiest way to install Jupyter and R on your machine is through Anaconda, available openly online, by first [installing Anaconda](https://www.anaconda.com/distribution/) and then [installing R](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/). We plan to start using Jupyter around the 5th week of class.
 * In the first part of the course, a good tool for typesetting mathematical homeworks is LaTeX. A good tutorial to learn LaTeX is [here](https://www.overleaf.com/learn/latex/Tutorials.
