@@ -1,7 +1,7 @@
 
 
 
-numSamples = 100;
+numSamples = 400;
 
 % states
 % start = 1
@@ -12,9 +12,9 @@ numSamples = 100;
 % end = 6
 
 % parameters
-p4to5 = 0.004;
-p4to2 = 0.007;
-p5to5 = 0.06;
+p4to5 = 0.42;
+p4to2 = 0.45;
+p5to5 = 0.8;
 
 % data holder
 basepairLength = zeros(1,numSamples);
