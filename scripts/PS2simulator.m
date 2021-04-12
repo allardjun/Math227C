@@ -1,6 +1,4 @@
 
-
-
 numSamples = 400;
 
 % states
