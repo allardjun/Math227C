@@ -9,4 +9,4 @@ jobs:
       - name: Compile LaTeX document
         uses: dante-ev/latex-action@latest
         with:
-          root_file: PRoblemSets_PartI/Math227C20Sp_P1.tex
+          root_file: ProblemSets_PartI/Math227C20Sp_P1.tex
