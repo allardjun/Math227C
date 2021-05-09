@@ -1,0 +1,12 @@
+name: compile-latex-documents
+on: [push]
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Compile LaTeX document
+        uses: dante-ev/latex-action@latest
+        with:
+          root_file: PRoblemSets_PartI/Math227C20Sp_P1.tex
