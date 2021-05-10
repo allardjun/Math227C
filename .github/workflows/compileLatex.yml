@@ -1,4 +1,4 @@
-name: compile-latex-documents
+name: Build LaTeX document
 on: [push]
 jobs:
   build_latex:
@@ -7,8 +7,6 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v2
       - name: Compile LaTeX document
-        working-directory: ./ProblemSets_PartI
         uses: dante-ev/latex-action@latest
         with:
-          root_file: Math227C20Sp_P1.tex
-          compiler: pdflatex
+          root_file: ProblemSets_PartI/Math227C20Sp_P1.tex
