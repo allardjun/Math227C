@@ -10,3 +10,7 @@ jobs:
         uses: dante-ev/latex-action@latest
         with:
           root_file: ProblemSets_PartI/Math227C20Sp_P1.tex
+      - name: push back to repo
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: compiled latex changes
