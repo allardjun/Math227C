@@ -1,5 +1,6 @@
 name: Compile latex problem sets
-on: push:
+on:
+  push:
     paths:
       - 'ProblemSets_PartI/*'
 jobs:
