@@ -9,8 +9,7 @@ jobs:
       - name: Compile LaTeX document
         uses: dante-ev/latex-action@latest
         with:
-          working_directory: ProblemSets_PartI
-          root_file: Math227C20Sp_P1.tex
+          entrypoint: ProblemSets_PartI/compileLatex.sh
       - name: push back to repo
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
