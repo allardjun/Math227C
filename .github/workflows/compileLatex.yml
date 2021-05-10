@@ -10,3 +10,4 @@ jobs:
         uses: dante-ev/latex-action@latest
         with:
           root_file: ProblemSets_PartI/Math227C20Sp_P1.tex
+          compiler: pdflatex
