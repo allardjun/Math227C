@@ -9,9 +9,10 @@ jobs:
       - name: Compile LaTeX document
         uses: dante-ev/latex-action@latest
         with:
-          root_file: ProblemSets_PartI/Math227C20Sp_P1.tex
-        uses: crazy-max/ghaction-github-pages@v2
+          working_directory: ProblemSets_PartI
+          root_file: Math227C20Sp_P1.tex
+      - name: push back to repo
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          target_branch: master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: compiled latex
+          file_pattern: ProblemSets_PartI/*.pdf
