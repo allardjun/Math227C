@@ -1,5 +1,7 @@
-name: Build LaTeX document
-on: [push]
+name: Compile latex problem sets
+on: push:
+    paths:
+      - 'ProblemSets_PartI/*'
 jobs:
   build_latex:
     runs-on: ubuntu-latest
