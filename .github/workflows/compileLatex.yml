@@ -6,8 +6,11 @@ jobs:
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v2
+      - name: go to latex directory
+      - run: |
+          cd ProblemSets_PartI/
       - name: Compile LaTeX document
         uses: dante-ev/latex-action@latest
         with:
-          root_file: ProblemSets_PartI/Math227C20Sp_P1.tex
+          root_file: Math227C20Sp_P1.tex
           compiler: pdflatex
