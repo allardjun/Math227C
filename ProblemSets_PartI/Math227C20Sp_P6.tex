@@ -33,7 +33,7 @@
 \headsep 20pt
 
 \begin{document}
- 
+
 
 \begin{enumerate}
 
@@ -45,7 +45,7 @@
 
 
 %%%%%%%%%%%%%% PROBLEM %%%%%%%%%%%%%%%%%%
-\item Many processes, including the spread of an infectious disease through a small community, can be modeled as first-order exponential processes like 
+\item Many processes, including the spread of an infectious disease through a small community, can be modeled as first-order exponential processes like
 \begin{equation*}
 \frac{dY}{dt} = \left(R-1\right) Y \quad Y(0)=1
 \end{equation*}
@@ -56,16 +56,21 @@ Assume instead that $R$ is a random variable that is different for each communit
 p_R(r) = \frac{1}{\sqrt{2\pi \sigma^2}}\, e^{-\left(r-1\right)^2/2\sigma^2}.
 \end{equation*}
 
-Find the probability density function $p_Y(y,t)$ of $Y(t)$.
+\begin{enumerate}
+\item Find the probability density function $p_Y(y,t)$ of $Y(t)$.
+\end{enumerate}
 
-Intuitively, we expect half of the trajectories to grow exponentially, and half of the trajectories to decay exponentially. 
+Intuitively, we expect half of the trajectories to grow exponentially, and half of the trajectories to decay exponentially.
 
-Sketch or plot the probability density you found for $p_Y(y,t)$. Does it agree with your intuition?
+\begin{enumerate}
+\setcounter{enumii}{1}
+\item Sketch or plot the probability density you found for $p_Y(y,t)$.
+\item Is it true that half the trajectories remain above the initial condition $Y=1$, and half remain below the initial condition $Y=1$? 
+\end{enumerate}
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{enumerate}
 \end{document}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
