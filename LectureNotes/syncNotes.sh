@@ -1,5 +1,5 @@
 #!/bin/bash
-rsync -r ~/Google\ Drive/Notability/Math227c21Sp/ ~/github/Math227C/LectureNotes
+rsync -r ~/GoogleDrive-118292251643994314192/My\ Drive/Notability/M227C/ ~/github/Math227C/LectureNotes
 cd ~/github/Math227C/LectureNotes;
 rm Icon*;
 cd ../
