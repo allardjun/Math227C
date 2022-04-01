@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="350" height="350" viewBox="-175.0 -175.0 350 350">
+     width="380" height="200" viewBox="0 -200 380 200">
 <defs>
 </defs>
-<text x="-120" y="-150" font-size="12" fill="black" dy="0em">Thursday, 31 March</text>
-<rect x="55" y="-135" width="120" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="60" y="-120" font-size="12" fill="black" dy="0em">Team Whiteboard</text>
-<text x="60" y="-110" font-size="12" fill="black" dy="0em">Andres</text>
-<text x="60" y="-100" font-size="12" fill="black" dy="0em">Sarah</text>
-<text x="60" y="-90" font-size="12" fill="black" dy="0em">Pei</text>
-<text x="60" y="-80" font-size="12" fill="black" dy="0em">Chaorong</text>
-<rect x="-125" y="-35" width="80" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="-120" y="-20" font-size="12" fill="black" dy="0em">Team Door</text>
-<text x="-120" y="-10" font-size="12" fill="black" dy="0em">Gabby</text>
-<text x="-120" y="0" font-size="12" fill="black" dy="0em">Yibiao</text>
-<text x="-120" y="10" font-size="12" fill="black" dy="0em">Anthony</text>
-<text x="-120" y="20" font-size="12" fill="black" dy="0em">Nhat Thanh Van</text>
-<rect x="80" y="-35" width="95" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="85" y="-20" font-size="12" fill="black" dy="0em">Team Window</text>
-<text x="85" y="-10" font-size="12" fill="black" dy="0em">Peijin</text>
-<text x="85" y="0" font-size="12" fill="black" dy="0em">Thao</text>
-<text x="85" y="10" font-size="12" fill="black" dy="0em">Negin</text>
-<text x="85" y="20" font-size="12" fill="black" dy="0em">Lulu</text>
-<rect x="-125" y="-135" width="115" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="-120" y="-120" font-size="12" fill="black" dy="0em">Team Lectern</text>
-<text x="-120" y="-110" font-size="12" fill="black" dy="0em">Kai</text>
-<text x="-120" y="-100" font-size="12" fill="black" dy="0em">Vignesh</text>
-<text x="-120" y="-90" font-size="12" fill="black" dy="0em">Siyang</text>
-<text x="-120" y="-80" font-size="12" fill="black" dy="0em">Nonthakorn</text>
-<rect x="-25" y="-35" width="100" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="-20" y="-20" font-size="12" fill="black" dy="0em">Team Projector</text>
-<text x="-20" y="-10" font-size="12" fill="black" dy="0em">Wei</text>
-<text x="-20" y="0" font-size="12" fill="black" dy="0em">Yiyun</text>
+<rect x="200" y="-160.0" width="117" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="205" y="-145.0" font-size="12" fill="black" dy="0em">Team Whiteboard</text>
+<text x="205" y="-133.0" font-size="12" fill="black" dy="0em">Yibiao</text>
+<text x="205" y="-121.0" font-size="12" fill="black" dy="0em">Thao</text>
+<text x="205" y="-109.0" font-size="12" fill="black" dy="0em">Vignesh</text>
+<text x="205" y="-97.0" font-size="12" fill="black" dy="0em">Pei</text>
+<rect x="5" y="-75.0" width="117" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="10" y="-60.0" font-size="12" fill="black" dy="0em">Team Door</text>
+<text x="10" y="-48.0" font-size="12" fill="black" dy="0em">Lulu</text>
+<text x="10" y="-36.0" font-size="12" fill="black" dy="0em">Nonthakorn</text>
+<text x="10" y="-24.0" font-size="12" fill="black" dy="0em">Sarah</text>
+<rect x="250" y="-75.0" width="117" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="255" y="-60.0" font-size="12" fill="black" dy="0em">Team Window</text>
+<text x="255" y="-48.0" font-size="12" fill="black" dy="0em">Nhat Thanh Van</text>
+<text x="255" y="-36.0" font-size="12" fill="black" dy="0em">Negin</text>
+<text x="255" y="-24.0" font-size="12" fill="black" dy="0em">Chaorong</text>
+<text x="255" y="-12.0" font-size="12" fill="black" dy="0em">Gabby</text>
+<rect x="35" y="-160.0" width="117" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="40" y="-145.0" font-size="12" fill="black" dy="0em">Team Lectern</text>
+<text x="40" y="-133.0" font-size="12" fill="black" dy="0em">Kai</text>
+<text x="40" y="-121.0" font-size="12" fill="black" dy="0em">Andres</text>
+<text x="40" y="-109.0" font-size="12" fill="black" dy="0em">Siyang</text>
+<text x="40" y="-97.0" font-size="12" fill="black" dy="0em">Anthony</text>
+<rect x="125" y="-75.0" width="117" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="130" y="-60.0" font-size="12" fill="black" dy="0em">Team Projector</text>
+<text x="130" y="-48.0" font-size="12" fill="black" dy="0em">Peijin</text>
+<text x="130" y="-36.0" font-size="12" fill="black" dy="0em">Wei</text>
+<text x="130" y="-24.0" font-size="12" fill="black" dy="0em">Yiyun</text>
+<text x="5" y="-180" font-size="12" fill="black" dy="0em">Thursday, 31 March</text>
 </svg>
