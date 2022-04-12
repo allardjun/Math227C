@@ -83,7 +83,11 @@ int main( int argc, char *argv[] )
                 else if (p<pE3toI+pE3toE1)
                     x = 1; // E3 -> E1
                 else
-                    x = 5; // E3 -> STOP
+                {
+                    // E3 -> STOP
+                    counter_geneLength += nt;
+                    break;
+                }
             }
             else if (x==4)
             {
@@ -95,12 +99,6 @@ int main( int argc, char *argv[] )
                 }
                 else
                     x=1; // I -> E1
-            }
-            else
-            {
-                // E3 -> STOP
-                counter_geneLength += nt;
-                break;
             }
         } //finished for-loop through nt
 
