@@ -16,25 +16,25 @@
 /******************************************************************************/
 
 #define RAND genrand_real3()
-#define nSample 20000
-#define ntmax 1000000 // a stop condition to make sure the loop eventually terminates
+#define nSample 400000
+#define ntmax 10000000 // a stop condition to make sure the loop eventually terminates
 
 /******************************************************************************/
 //  Variable declarations
 /******************************************************************************/
 
-int nt, iSample;
-int x;
+long nt, iSample;
+long x;
 double p;
 
 // parameters
 double pE3toI, pE3toE1, pItoI;
 
 // data collectors
-int counter_geneLength;
-int counter_numberOfIntrons;
-int counter_proteinLength;
-int counter_lengthOfIntron;
+long counter_geneLength;
+long counter_numberOfIntrons;
+long counter_proteinLength;
+long counter_lengthOfIntron;
 
 /******************************************************************************/
 //  Main function
@@ -46,11 +46,11 @@ int main( int argc, char *argv[] )
     RanInit(0,0);
 
     // set parameters
-    pE3toI  = 0.0001;
+    pE3toI  = 0.00010;
     pE3toE1 = 0.99989;
     pItoI   = 0.999;
 
-    for (iSample=1;iSample<nSample;iSample++)
+    for (iSample=1;iSample<=nSample;iSample++)
     {
         // intial condition
         x = 0;
@@ -100,9 +100,11 @@ int main( int argc, char *argv[] )
                 else
                     x=1; // I -> E1
             }
+
         } //finished for-loop through nt
 
-        //printf("gene length = %d\n",nt);
+        if (nt==ntmax)
+            printf("error: hit ntmax\n");
 
     } // finished loop through samples
 
