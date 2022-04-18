@@ -16,7 +16,7 @@
 /******************************************************************************/
 
 #define RAND genrand_real3()
-#define nSample 400000
+#define nSample 40000
 #define ntmax 10000000 // a stop condition to make sure the loop eventually terminates
 
 /******************************************************************************/
