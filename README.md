@@ -8,6 +8,9 @@
   - Use [Google Colab](https://colab.research.google.com/)
   - For UCI students, use our local high-performance computing facility, hpc3, which has a Jupyter notebook server called [biojhub](https://hpc3.rcic.uci.edu/biojhub3/hub). See some [instructions from rcic](https://rcic.uci.edu/hpc3/examples.html).  
 * In the first part of the course, a good tool for typesetting mathematical homeworks is LaTeX. A good tutorial to learn LaTeX is [here](https://www.overleaf.com/learn/latex/Tutorials).
+* R learning resources
+  - [R Tutorial from W3C](https://www.w3schools.com/r/)
+  - [R cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) with loops, if statements, `lapply`, etc. 
 
 ## Premise
 
