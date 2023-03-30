@@ -1,37 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="380" height="200" viewBox="0 -200 380 200">
+     width="380" height="200" viewBox="0 -200 380 200" displayInline="False">
 <defs>
 </defs>
-<rect x="200" y="-172.0" width="117" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="205" y="-155.0" font-size="12" fill="black" dy="0em">Team Whiteboard</text>
-<text x="205" y="-143.0" font-size="12" fill="black" dy="0em">Yiyun</text>
-<text x="205" y="-131.0" font-size="12" fill="black" dy="0em">Chaorong</text>
-<text x="205" y="-119.0" font-size="12" fill="black" dy="0em">Andres</text>
-<text x="205" y="-107.0" font-size="12" fill="black" dy="0em">Siyang</text>
-<rect x="5" y="-87.0" width="117" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="10" y="-70.0" font-size="12" fill="black" dy="0em">Team Door</text>
-<text x="10" y="-58.0" font-size="12" fill="black" dy="0em">Pei</text>
-<text x="10" y="-46.0" font-size="12" fill="black" dy="0em">Anthony</text>
-<text x="10" y="-34.0" font-size="12" fill="black" dy="0em">Peijin</text>
-<text x="10" y="-22.0" font-size="12" fill="black" dy="0em">Lulu</text>
-<rect x="250" y="-87.0" width="117" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="255" y="-70.0" font-size="12" fill="black" dy="0em">Team Window</text>
-<text x="255" y="-58.0" font-size="12" fill="black" dy="0em">Tianhong</text>
-<text x="255" y="-46.0" font-size="12" fill="black" dy="0em">Wei</text>
-<text x="255" y="-34.0" font-size="12" fill="black" dy="0em">Kojo</text>
-<text x="255" y="-22.0" font-size="12" fill="black" dy="0em">Gabby</text>
-<rect x="35" y="-172.0" width="117" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="40" y="-155.0" font-size="12" fill="black" dy="0em">Team Lectern</text>
-<text x="40" y="-143.0" font-size="12" fill="black" dy="0em">Kai</text>
-<text x="40" y="-131.0" font-size="12" fill="black" dy="0em">Sarah</text>
-<text x="40" y="-119.0" font-size="12" fill="black" dy="0em">Yibiao</text>
-<text x="40" y="-107.0" font-size="12" fill="black" dy="0em">Vignesh</text>
-<rect x="125" y="-87.0" width="117" height="70" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="130" y="-70.0" font-size="12" fill="black" dy="0em">Team Projector</text>
-<text x="130" y="-58.0" font-size="12" fill="black" dy="0em">Nonthakorn</text>
-<text x="130" y="-46.0" font-size="12" fill="black" dy="0em">Negin</text>
-<text x="130" y="-34.0" font-size="12" fill="black" dy="0em">Nhat Thanh Van</text>
-<text x="130" y="-22.0" font-size="12" fill="black" dy="0em">Thao</text>
-<text x="5" y="-180" font-size="12" fill="black" dy="0em">Wednesday, 1 June</text>
+<rect x="200" y="-167" width="117" height="65" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="205" y="-155" font-size="12" fill="black">Team Whiteboard</text>
+<text x="205" y="-143" font-size="12" fill="black">Jaewook</text>
+<text x="205" y="-131" font-size="12" fill="black">Manuel</text>
+<text x="205" y="-119" font-size="12" fill="black">Cameron</text>
+<text x="205" y="-107" font-size="12" fill="black">Yeon</text>
+<rect x="5" y="-82" width="117" height="65" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="10" y="-70" font-size="12" fill="black">Team Door</text>
+<text x="10" y="-58" font-size="12" fill="black">John</text>
+<text x="10" y="-46" font-size="12" fill="black">Brady</text>
+<text x="10" y="-34" font-size="12" fill="black">Lorenzo</text>
+<text x="10" y="-22" font-size="12" fill="black">Matthew</text>
+<rect x="250" y="-82" width="117" height="65" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="255" y="-70" font-size="12" fill="black">Team Window</text>
+<text x="255" y="-58" font-size="12" fill="black">Joohu</text>
+<text x="255" y="-46" font-size="12" fill="black">Nima</text>
+<text x="255" y="-34" font-size="12" fill="black">Sai</text>
+<text x="255" y="-22" font-size="12" fill="black">Yuna</text>
+<rect x="35" y="-167" width="117" height="65" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="40" y="-155" font-size="12" fill="black">Team Lectern</text>
+<text x="40" y="-143" font-size="12" fill="black">Ian</text>
+<text x="5" y="-180" font-size="12" fill="black">Thursday, 30 March</text>
 </svg>
