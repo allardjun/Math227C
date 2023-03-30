@@ -44,4 +44,14 @@ This course follows MATH 227A and 227B in establishing mathematical and computat
 
 11. [MCMC and chemical kinetics](ProblemSets_PartII/Math227C20Sp_P11_MCMC.ipynb)
 
+## Scheduling
+
+
+Special dates
+
+- Wed April 12th wk2 - no class.
+- Fri April 14th wk2 - no class.
+- Wed May 3rd wk5 - guest lecture
+- Fri June 9th wk10 - no class. There will be an out-of-class video lecture
+- Tue, Jun 13, 1:30-3:30pm. This will not be an exam, but rather two regular in-class work sessions (Problem Set 11)
 
