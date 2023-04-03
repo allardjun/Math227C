@@ -1,6 +1,6 @@
 # Math 227C: Stochastic modeling and statistical modeling for the life sciences
 
-`![Teams for today](./teams_M227C.svg)`
+![Teams for today](./teams_M227C.svg)
 
 * The repository will be updated throughout the course, including with lecture notes. A convenient way to rapidly synchronize a copy onto your computer is using git, available openly online.
 * In the second part of the course, we will make use of Jupyter notebooks and the R programming language. We plan to start using Jupyter around the 5th week of class. There are (at least) three ways to run Jupyter R notebooks. 
