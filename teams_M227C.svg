@@ -5,24 +5,25 @@
 </defs>
 <rect x="200" y="-155" width="117" height="53" fill="#ffffff" stroke-width="2" stroke="black" />
 <text x="205" y="-143" font-size="12" fill="black">Team Lectern</text>
-<text x="205" y="-131" font-size="12" fill="black">John</text>
-<text x="205" y="-119" font-size="12" fill="black">Sai</text>
-<text x="205" y="-107" font-size="12" fill="black">Nima</text>
-<rect x="35" y="-70" width="117" height="53" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="40" y="-58" font-size="12" fill="black">Team Window</text>
-<text x="40" y="-46" font-size="12" fill="black">Jaewook</text>
-<text x="40" y="-34" font-size="12" fill="black">Brady</text>
-<text x="40" y="-22" font-size="12" fill="black">Lorenzo</text>
+<text x="205" y="-131" font-size="12" fill="black">Yuna</text>
+<text x="205" y="-119" font-size="12" fill="black">Nima</text>
+<text x="205" y="-107" font-size="12" fill="black">Yonghan (Addie)</text>
+<rect x="35" y="-82" width="117" height="65" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="40" y="-70" font-size="12" fill="black">Team Window</text>
+<text x="40" y="-58" font-size="12" fill="black">Brady</text>
+<text x="40" y="-46" font-size="12" fill="black">Ian</text>
+<text x="40" y="-34" font-size="12" fill="black">Joohu</text>
+<text x="40" y="-22" font-size="12" fill="black">Cameron</text>
 <rect x="200" y="-82" width="117" height="65" fill="#ffffff" stroke-width="2" stroke="black" />
 <text x="205" y="-70" font-size="12" fill="black">Team Whiteboard</text>
-<text x="205" y="-58" font-size="12" fill="black">Yonghan (Addie)</text>
-<text x="205" y="-46" font-size="12" fill="black">Manuel</text>
-<text x="205" y="-34" font-size="12" fill="black">Cameron</text>
-<text x="205" y="-22" font-size="12" fill="black">Matthew</text>
+<text x="205" y="-58" font-size="12" fill="black">Matthew</text>
+<text x="205" y="-46" font-size="12" fill="black">Yeon</text>
+<text x="205" y="-34" font-size="12" fill="black">Lorenzo</text>
+<text x="205" y="-22" font-size="12" fill="black">John</text>
 <rect x="35" y="-155" width="117" height="53" fill="#ffffff" stroke-width="2" stroke="black" />
 <text x="40" y="-143" font-size="12" fill="black">Team Door</text>
-<text x="40" y="-131" font-size="12" fill="black">Yeon</text>
-<text x="40" y="-119" font-size="12" fill="black">Ian</text>
-<text x="40" y="-107" font-size="12" fill="black">Yuna</text>
+<text x="40" y="-131" font-size="12" fill="black">Manuel</text>
+<text x="40" y="-119" font-size="12" fill="black">Jaewook</text>
+<text x="40" y="-107" font-size="12" fill="black">Sai</text>
 <text x="5" y="-180" font-size="12" fill="black">Wednesday, 5 April</text>
 </svg>
