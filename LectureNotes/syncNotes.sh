@@ -6,3 +6,5 @@ rm Icon*;
 cd ../
 git add .
 git commit -m 'After lecture, sync hand notes'
+git push
+
