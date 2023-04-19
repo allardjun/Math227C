@@ -64,4 +64,5 @@ end % finished samples
 
 figure(1);
 histogram(basepairLength);
+xlabel("basepair lengths")
 
