@@ -28,7 +28,7 @@ This course follows MATH 227A and 227B in establishing mathematical and computat
 
 2. [Discrete-state Markov chains, base pairs](ProblemSets_PartI/Math227C20Sp_P2.pdf)
 
-3. [Discrete-state Markov chains, MFPTs and a biologist in the rain](ProblemSets_PartI/Math227C20Sp_P3.pdf)
+3. [Discrete-state Markov chains, MFPTs and a biologist in the rain](ProblemSets_PartI/Math227C20Sp_P3.pdf) -- OPTIONAL IN 2023
 
 4. [Poisson rates, my advisor is always late, viral DNA](ProblemSets_PartI/Math227C20Sp_P4.pdf)
 
