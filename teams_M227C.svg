@@ -6,24 +6,23 @@
 <rect x="200" y="-155" width="117" height="53" fill="#ffffff" stroke-width="2" stroke="black" />
 <text x="205" y="-143" font-size="12" fill="black" dy="0em">Team Lectern</text>
 <text x="205" y="-131" font-size="12" fill="black" dy="0em">Addie</text>
-<text x="205" y="-119" font-size="12" fill="black" dy="0em">Ian</text>
-<text x="205" y="-107" font-size="12" fill="black" dy="0em">Brady</text>
+<text x="205" y="-119" font-size="12" fill="black" dy="0em">Yuna</text>
+<text x="205" y="-107" font-size="12" fill="black" dy="0em">Nima</text>
 <rect x="35" y="-82" width="117" height="65" fill="#ffffff" stroke-width="2" stroke="black" />
 <text x="40" y="-70" font-size="12" fill="black" dy="0em">Team Whiteboard</text>
-<text x="40" y="-58" font-size="12" fill="black" dy="0em">John</text>
-<text x="40" y="-46" font-size="12" fill="black" dy="0em">Cameron</text>
-<text x="40" y="-34" font-size="12" fill="black" dy="0em">Lorenzo</text>
-<text x="40" y="-22" font-size="12" fill="black" dy="0em">Sai</text>
-<rect x="200" y="-82" width="117" height="65" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="205" y="-70" font-size="12" fill="black" dy="0em">Team Wifi Router</text>
-<text x="205" y="-58" font-size="12" fill="black" dy="0em">Yuna</text>
-<text x="205" y="-46" font-size="12" fill="black" dy="0em">Joohu</text>
-<text x="205" y="-34" font-size="12" fill="black" dy="0em">Jaewook</text>
-<text x="205" y="-22" font-size="12" fill="black" dy="0em">Yeon</text>
+<text x="40" y="-58" font-size="12" fill="black" dy="0em">Jaewook</text>
+<text x="40" y="-46" font-size="12" fill="black" dy="0em">Lorenzo</text>
+<text x="40" y="-34" font-size="12" fill="black" dy="0em">Brady</text>
+<text x="40" y="-22" font-size="12" fill="black" dy="0em">Ian</text>
+<rect x="200" y="-70" width="117" height="53" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="205" y="-58" font-size="12" fill="black" dy="0em">Team Wifi Router</text>
+<text x="205" y="-46" font-size="12" fill="black" dy="0em">Matthew</text>
+<text x="205" y="-34" font-size="12" fill="black" dy="0em">Manuel</text>
+<text x="205" y="-22" font-size="12" fill="black" dy="0em">Cameron</text>
 <rect x="35" y="-155" width="117" height="53" fill="#ffffff" stroke-width="2" stroke="black" />
 <text x="40" y="-143" font-size="12" fill="black" dy="0em">Team Door</text>
-<text x="40" y="-131" font-size="12" fill="black" dy="0em">Manuel</text>
-<text x="40" y="-119" font-size="12" fill="black" dy="0em">Matthew</text>
-<text x="40" y="-107" font-size="12" fill="black" dy="0em">Nima</text>
-<text x="5" y="-180" font-size="12" fill="black" dy="0em">Monday, 1 May</text>
+<text x="40" y="-131" font-size="12" fill="black" dy="0em">John</text>
+<text x="40" y="-119" font-size="12" fill="black" dy="0em">Sai</text>
+<text x="40" y="-107" font-size="12" fill="black" dy="0em">Yeon</text>
+<text x="5" y="-180" font-size="12" fill="black" dy="0em">Wednesday, 10 May</text>
 </svg>
