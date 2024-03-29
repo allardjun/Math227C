@@ -29,7 +29,7 @@ This course follows MATH 227A and 227B in establishing mathematical and computat
 
 2. [Discrete-state Markov chains, base pairs](ProblemSets_PartI/Math227C20Sp_P2.pdf)
 
-3. [Discrete-state Markov chains, MFPTs and a biologist in the rain](ProblemSets_PartI/Math227C20Sp_P3.pdf) -- OPTIONAL IN 2023
+3. [Discrete-state Markov chains, MFPTs and a biologist in the rain](ProblemSets_PartI/Math227C20Sp_P3.pdf) 
 
 4. [Poisson rates, my advisor is always late, viral DNA](ProblemSets_PartI/Math227C20Sp_P4.pdf)
 
@@ -52,9 +52,8 @@ This course follows MATH 227A and 227B in establishing mathematical and computat
 
 Special dates
 
-- Wed April 12th wk2 - no class.
-- Fri April 14th wk2 - no class.
-- Wed May 3rd wk5 - guest lecture
-- Fri June 9th wk10 - no class. There will be an out-of-class video lecture
-- Tue, Jun 13, 1:30-3:30pm. This will not be an exam, but rather two regular in-class work sessions (Problem Set 11)
+- There will be no lecture Wednesday, April 17th (wk 3). Instead we will:
+- There will be no lecture Monday, May 13th (wk 7). Instead we will:
+- An out-of-class recorded lecture
+- Meet on June 7th (final exam slot) 1:30-3:30pm. This will not be an exam, but rather two regular in-class work sessions (Problem Set 11)
 
