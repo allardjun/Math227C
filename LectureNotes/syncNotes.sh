@@ -1,5 +1,5 @@
 #!/bin/bash
-GDRIVELOCATION="jallard@uci.edu\ -\ Google\ Drive/My\ Drive/Notability/M227-24sp"
+GDRIVELOCATION="jallard@uci.edu - Google Drive/My Drive/Notability/M227-24sp"
 
 echo $GDRIVELOCATION
 echo "/Users/jun/"$GDRIVELOCATION
