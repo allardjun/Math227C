@@ -52,8 +52,7 @@ This course follows MATH 227A and 227B in establishing mathematical and computat
 
 Special dates
 
-- There will be no lecture Wednesday, April 17th (wk 3). Instead we will:
-- There will be no lecture Monday, May 13th (wk 7). Instead we will:
-- An out-of-class recorded lecture
-- Meet on June 7th (final exam slot) 1:30-3:30pm. This will not be an exam, but rather two regular in-class work sessions (Problem Set 11)
+- There will be no lecture Wednesday, April 17th (wk 3). 
+- There will be no lecture Monday, May 13th (wk 7).
+- Instead we will have out-of-class recorded lectures that you will be responsible for watching. These will be released throughout the quarter.
 
