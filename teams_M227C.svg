@@ -4,24 +4,25 @@
 <defs>
 </defs>
 <rect x="200" y="102" width="117" height="63" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="205" y="119" font-size="12" fill="black">Team Lectern</text>
-<text x="205" y="131" font-size="12" fill="black">Dylan</text>
-<text x="205" y="143" font-size="12" fill="black">Austin</text>
-<text x="205" y="155" font-size="12" fill="black">Caroline</text>
+<text x="205" y="119" font-size="12" fill="black">Team LB40</text>
+<text x="205" y="131" font-size="12" fill="black">Luis</text>
+<text x="205" y="143" font-size="12" fill="black">Ren</text>
+<text x="205" y="155" font-size="12" fill="black">Dylan</text>
 <rect x="35" y="17" width="117" height="63" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="40" y="34" font-size="12" fill="black">Team Whiteboard</text>
-<text x="40" y="46" font-size="12" fill="black">Jacy</text>
-<text x="40" y="58" font-size="12" fill="black">Kyla</text>
-<text x="40" y="70" font-size="12" fill="black">Madison</text>
-<rect x="200" y="17" width="117" height="63" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="205" y="34" font-size="12" fill="black">Team Wifi Router</text>
-<text x="205" y="46" font-size="12" fill="black">Qingyuan</text>
-<text x="205" y="58" font-size="12" fill="black">Zhishun</text>
-<text x="205" y="70" font-size="12" fill="black">Arvind</text>
+<text x="40" y="34" font-size="12" fill="black">Team Door</text>
+<text x="40" y="46" font-size="12" fill="black">Zhishun</text>
+<text x="40" y="58" font-size="12" fill="black">Madison</text>
+<text x="40" y="70" font-size="12" fill="black">Jacy</text>
+<rect x="200" y="17" width="117" height="75" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="205" y="34" font-size="12" fill="black">Team Lectern</text>
+<text x="205" y="46" font-size="12" fill="black">Abbey</text>
+<text x="205" y="58" font-size="12" fill="black">Arvind</text>
+<text x="205" y="70" font-size="12" fill="black">Kyla</text>
+<text x="205" y="82" font-size="12" fill="black">Austin</text>
 <rect x="35" y="102" width="117" height="63" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="40" y="119" font-size="12" fill="black">Team Door</text>
-<text x="40" y="131" font-size="12" fill="black">Ren</text>
-<text x="40" y="143" font-size="12" fill="black">Luis</text>
-<text x="40" y="155" font-size="12" fill="black">Luke</text>
-<text x="5" y="10" font-size="12" fill="black">Wednesday, 1 May</text>
+<text x="40" y="119" font-size="12" fill="black">Team Lookers Right</text>
+<text x="40" y="131" font-size="12" fill="black">Caroline</text>
+<text x="40" y="143" font-size="12" fill="black">Luke</text>
+<text x="40" y="155" font-size="12" fill="black">Qingyuan</text>
+<text x="5" y="10" font-size="12" fill="black">Wednesday, 8 May</text>
 </svg>
