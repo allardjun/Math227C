@@ -187,7 +187,6 @@ my_data <- read.csv(drive_get("my_dataset.csv")$id)
 
 ## Links
 
-- [R for Data Science](https://r4ds.had.co.nz/)
-- [Jupyter and R Documentation](https://irkernel.github.io/docs/)
+
 - [Git and GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 
