@@ -1,20 +1,31 @@
-name: Compile latex problem sets
+name: Compile LaTeX to PDF
+
 on:
   push:
     paths:
-      - 'ProblemSets_PartI/*'
+      - '**.tex'
+  pull_request:
+    paths:
+      - '**.tex'
+  workflow_dispatch:  # Allows manual triggering
+
 jobs:
-  build_latex:
+  build:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Set up Git repository
-        uses: actions/checkout@v2
-      - name: Compile LaTeX document
-        uses: dante-ev/latex-action@latest
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Compile LaTeX documents
+        uses: xu-cheng/latex-action@v2
         with:
-          entrypoint: ProblemSets_PartI/compileLatex.sh
-      - name: push back to repo
-        uses: stefanzweifel/git-auto-commit-action@v4
+          root_file: "*.tex"
+          glob_root_file: true
+          args: "-pdf -file-line-error -halt-on-error -interaction=nonstopmode"
+      
+      - name: Upload compiled PDFs
+        uses: actions/upload-artifact@v3
         with:
-          commit_message: compiled latex
-          file_pattern: ProblemSets_PartI/*.pdf
+          name: PDF
+          path: ./**/*.pdf
