@@ -48,7 +48,7 @@ This course, MATH 227C, is in two parts: the first covers stochastic processes, 
 
 9. [TO BE RELEASED] High-dimensional data / Microbiome
 
-10. [TO BE RELEASED] Bootstrap / Cox proportional hazards on liver disease data
+10. [TO BE RELEASED] Bootstrap / Proportional hazards on liver disease data
 
 11. [TO BE RELEASED] Flat priors / Chemical kinetics 
 
