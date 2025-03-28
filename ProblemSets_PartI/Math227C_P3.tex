@@ -1,0 +1,87 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage{amsmath,amsthm,amsfonts,amssymb,amscd}
+\usepackage{fullpage}
+\usepackage{lastpage}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\usepackage{mathrsfs}
+\usepackage[margin=3cm,bottom=6cm]{geometry}
+\usepackage{wrapfig}
+\usepackage{graphicx}
+
+\setlength{\parindent}{0.0in}
+\setlength{\parskip}{0.05in}
+
+\renewcommand{\theenumi}{\bf\Alph{enumi}}
+
+% Edit these as appropriate
+\newcommand\course{Math 227C}
+\newcommand\hwnum{2}                  % <-- homework number
+\newcommand\yourname{Jun Allard} % <-- your name
+%\newcommand\login{jcarberr}           % <-- your CS login
+
+\newenvironment{answer}[1]{
+  \subsubsection*{Problem Set 3}
+}{\newpage}
+
+\pagestyle{fancyplain}
+\headheight 35pt
+\lhead{ \course\  }
+\chead{\textbf{ Problem Set 3}}
+%\rhead{Due {\bf Friday, April 27th}}
+\headsep 20pt
+
+\begin{document}
+
+
+\begin{enumerate}
+
+%%%%%%%%%%%%%% PROBLEM %%%%%%%%%%%%%%%%%%
+\item
+
+Suppose a biologist possesses $4$ umbrellas which he employs in going from his home to his lab and vice versa. 
+If he is at home (lab) at the beginning (end) of his day and it is raining, then he will take an umbrella with him to the lab (home), provided there is one to be taken. 
+If it is not raining, then he never takes an umbrella. 
+Assume that, independent of the past, it rains at the beginning (end) of a day with probability $p=0.1$.
+
+The biologist currently has 2 umbrellas at home and 2 at the lab. 
+How long, on average, until he gets wet? 
+
+\vspace{3em}
+
+Hint preamble: I suggest you think and discuss how you would approach this problem before looking at the hint. What are the states of the Markov chain you would define?
+
+Hint: Define a Markov chain with $6$ states, where state $i$ is having $i-1$ umbrellas with him (i.e., it is the number of umbrellas at home if he is at home, and the number in the lab if he is at the lab). The sixth state is the one in which he had zero umbrellas with him, and it rained, and therefore he gets wet. Write down the Markov transition matrix for this Markov chain. 
+
+Bonus question: What is the value of $p$ (probability of rain on a given trip) that maximizes the time to get wet? 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+
+\vspace{3em}
+
+
+%%%%%%%%%%%%%% PROBLEM %%%%%%%%%%%%%%%%%%
+\item % HISTONE
+
+A nucleosome is a structure in the nucleus in which DNA wraps around a histone.
+For simplicity, in this problem, we will assume that the wrapping DNA has 5 contact points that must form sequentially. 
+Therefore, a histone can be in one of 6 states (5 wrapping states, plus the unwrapped state), and will stochastically transition from state $i$ to either state $i+1$ or state $i-1$ with probability $\mathbb{P}=0.5$.
+If it is completely unwrapped, it will transition to the first wrapping state with probability $\mathbb{P}=1$.
+
+\begin{enumerate}[i.]
+  \item Write down the transition matrix for this Markov chain.
+  \item What is the expected number of steps until the histone reaches the wrapped state, given that it starts in the unwrapped state?
+  \item If another DNA-binding molecule, like a transcription factor, binds the DNA at site $i$, then it will reduce the probability of the histone wrapping to that site. 
+  Suppose there is a transcription factor bound to site $3$, reducing transitions to state $3$ to be $\mathbb{P}=0.25$. 
+  Now, what is the expected number of steps until the histone reaches the wrapped state, given that it starts in the unwrapped state?
+  \item \textbf{[OUT OF CLASS]} What affects the mean time to wrapping more, a transcription factor bound to site $1$ or site $4$?
+\end{enumerate}
+
+The phenomenon of transcription factors interfering with histone wrapping has significant biological consequences [Kim, Hoffmann, Enciso, et al., \textit{Cell Reports} 2022].
+
+\end{enumerate} % multi-problem homework
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+

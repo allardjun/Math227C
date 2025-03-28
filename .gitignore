@@ -1,2 +1,44 @@
+## --- MacOS ---
+
+# Ignore DS_Store files
 .DS_Store
-.vscode
+**/.DS_Store
+
+## --- Latex ---
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+
+# LaTeX intermediate files
+*.bbl
+*.blg
+*.synctex.gz
+
+# LaTeX editor files
+*.synctex(busy)
+*.synctex.gz(busy)
+*.fdb_latexmk
+*.fls
+
+## --- Jupyter ---
+
+# Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+
+## --- python ---
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Python environment files
+venv/
+
+## --- MS Office ---
+~$*
+
+## --- vscode ---
+.vscode/
