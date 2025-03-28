@@ -34,13 +34,13 @@ This course, MATH 227C, is in two parts: the first covers stochastic processes, 
 
 2. [Discrete Markov chains / Introns and exons](ProblemSets_PartI/Math227C_P2.pdf)
 
-3. [TO BE RELEASED] Mean first passage / Histone unwrapping, umbrellas
+3. [Mean first passage / Histone unwrapping, umbrellas](ProblemSets_PartI/Math227C_P3.pdf)
 
-4. [TO BE RELEASED] Poisson processes / Two point mutations, my advisor is late
+4. [Poisson processes / Two point mutations, my advisor is late](ProblemSets_PartI/Math227C_P4.pdf)
 
-5. [TO BE RELEASED] Continuous-time Markov chain / Receptor-ligand binding
+5. [Continuous-time Markov chain / Receptor-ligand binding](ProblemSets_PartI/Math227C_P5.pdf)
 
-6. [TO BE RELEASED] Heterogeneity in a population
+6. [Heterogeneity in a population](ProblemSets_PartI/Math227C_P6.pdf)
 
 7. [TO BE RELEASED] Allometric scaling in pediatric pharmacokinetics
 
