@@ -30,25 +30,25 @@ This course, MATH 227C, is in two parts: the first covers stochastic processes, 
 
 ## Problem sets
 
-1. [TO BE RELEASED] Probability events / Protein-protein interaction network
+1. [Probability events / Protein-protein interaction network](ProblemSets_PartI/Math227C_P1.pdf)
 
-2. [TO BE RELEASED] Discrete Markov chains / Introns and exons, histone unwrapping, umbrellas
+2. [Discrete Markov chains / Introns and exons](ProblemSets_PartI/Math227C_P2.pdf)
 
-3. [TO BE RELEASED] Poisson processes / Two point mutations, my advisor is late
+3. [TO BE RELEASED] Mean first passage / Histone unwrapping, umbrellas
 
-4. [TO BE RELEASED] Continuous-time Markov chain / Receptor-ligand binding
+4. [TO BE RELEASED] Poisson processes / Two point mutations, my advisor is late
 
-5. [TO BE RELEASED] Heterogeneity in a population
+5. [TO BE RELEASED] Continuous-time Markov chain / Receptor-ligand binding
 
-6. [TO BE RELEASED] Allometric scaling in pediatric pharmacokinetics
+6. [TO BE RELEASED] Heterogeneity in a population
 
-7. [TO BE RELEASED] The variance-bias tradeoff / Flow cytometry
+7. [TO BE RELEASED] Allometric scaling in pediatric pharmacokinetics
 
-8. [TO BE RELEASED] High-dimensional data / Microbiome
+8. [TO BE RELEASED] The variance-bias tradeoff / Flow cytometry
 
-9. [TO BE RELEASED] Cox proportional hazards on liver disease data
+9. [TO BE RELEASED] High-dimensional data / Microbiome
 
-10. [TO BE RELEASED] Bayesian posterior / Haplotypes
+10. [TO BE RELEASED] Bootstrap / Cox proportional hazards on liver disease data
 
 11. [TO BE RELEASED] Flat priors / Chemical kinetics 
 
