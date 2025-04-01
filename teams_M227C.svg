@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="380" height="200" viewBox="0 0 380 200" displayInline="False">
+     width="380" height="100" viewBox="0 0 380 100" displayInline="False">
 <defs>
 </defs>
-<rect x="200" y="102" width="117" height="63" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="205" y="119" font-size="12" fill="black">Team LB40</text>
-<text x="205" y="131" font-size="12" fill="black">Qingyuan</text>
-<text x="205" y="143" font-size="12" fill="black">Caroline</text>
-<text x="205" y="155" font-size="12" fill="black">Dylan</text>
-<rect x="35" y="17" width="117" height="63" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="40" y="34" font-size="12" fill="black">Team Door</text>
-<text x="40" y="46" font-size="12" fill="black">Jacy</text>
-<text x="40" y="58" font-size="12" fill="black">Madison</text>
-<text x="40" y="70" font-size="12" fill="black">Arvind</text>
-<rect x="200" y="17" width="117" height="75" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="205" y="34" font-size="12" fill="black">Team Lectern</text>
-<text x="205" y="46" font-size="12" fill="black">Ren</text>
-<text x="205" y="58" font-size="12" fill="black">Kyla</text>
-<text x="205" y="70" font-size="12" fill="black">Luke</text>
-<text x="205" y="82" font-size="12" fill="black">Zhishun</text>
-<rect x="35" y="102" width="117" height="63" fill="#ffffff" stroke-width="2" stroke="black" />
-<text x="40" y="119" font-size="12" fill="black">Team Lookers Right</text>
-<text x="40" y="131" font-size="12" fill="black">Luis</text>
-<text x="40" y="143" font-size="12" fill="black">Abbey</text>
-<text x="40" y="155" font-size="12" fill="black">Austin</text>
-<text x="5" y="10" font-size="12" fill="black">Monday, 3 June</text>
+<rect x="17" y="17" width="80" height="75" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="22" y="34" font-size="12" fill="black">Team Lectern</text>
+<text x="22" y="46" font-size="12" fill="black">Ethan</text>
+<text x="22" y="58" font-size="12" fill="black">Gautham</text>
+<text x="22" y="70" font-size="12" fill="black">Xinyi</text>
+<text x="22" y="82" font-size="12" fill="black">Caleb</text>
+<rect x="107" y="17" width="80" height="75" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="112" y="34" font-size="12" fill="black">Team B</text>
+<text x="112" y="46" font-size="12" fill="black">Akarsh</text>
+<text x="112" y="58" font-size="12" fill="black">Shing</text>
+<text x="112" y="70" font-size="12" fill="black">Ana</text>
+<text x="112" y="82" font-size="12" fill="black">Patrick</text>
+<rect x="197" y="17" width="80" height="75" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="202" y="34" font-size="12" fill="black">Team C</text>
+<text x="202" y="46" font-size="12" fill="black">Kate</text>
+<text x="202" y="58" font-size="12" fill="black">Melika</text>
+<text x="202" y="70" font-size="12" fill="black">Sinai</text>
+<text x="202" y="82" font-size="12" fill="black">Clara</text>
+<rect x="287" y="17" width="80" height="63" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="292" y="34" font-size="12" fill="black">Team Exit</text>
+<text x="292" y="46" font-size="12" fill="black">Chelsea</text>
+<text x="292" y="58" font-size="12" fill="black">Yun</text>
+<text x="292" y="70" font-size="12" fill="black">Ashish</text>
+<text x="5" y="10" font-size="12" fill="black">Tuesday, 1 April</text>
 </svg>
