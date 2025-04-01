@@ -30,25 +30,25 @@ This course, MATH 227C, is in two parts: the first covers stochastic processes, 
 
 ## Problem sets
 
-1. [TO BE RELEASED] Probability events / Protein-protein interaction network
+1. [Probability events / Protein-protein interaction network](ProblemSets_PartI/Math227C_P1.pdf)
 
-2. [TO BE RELEASED] Discrete Markov chains / Introns and exons, histone unwrapping, umbrellas
+2. [Discrete Markov chains / Introns and exons](ProblemSets_PartI/Math227C_P2.pdf)
 
-3. [TO BE RELEASED] Poisson processes / Two point mutations, my advisor is late
+3. [Mean first passage / Histone unwrapping, umbrellas](ProblemSets_PartI/Math227C_P3.pdf)
 
-4. [TO BE RELEASED] Continuous-time Markov chain / Receptor-ligand binding
+4. [Poisson processes / Two point mutations, my advisor is late](ProblemSets_PartI/Math227C_P4.pdf)
 
-5. [TO BE RELEASED] Heterogeneity in a population
+5. [Continuous-time Markov chain / Receptor-ligand binding](ProblemSets_PartI/Math227C_P5.pdf)
 
-6. [TO BE RELEASED] Allometric scaling in pediatric pharmacokinetics
+6. [Heterogeneity in a population](ProblemSets_PartI/Math227C_P6.pdf)
 
-7. [TO BE RELEASED] The variance-bias tradeoff / Flow cytometry
+7. [TO BE RELEASED] Allometric scaling in pediatric pharmacokinetics
 
-8. [TO BE RELEASED] High-dimensional data / Microbiome
+8. [TO BE RELEASED] The variance-bias tradeoff / Flow cytometry
 
-9. [TO BE RELEASED] Cox proportional hazards on liver disease data
+9. [TO BE RELEASED] High-dimensional data / Microbiome
 
-10. [TO BE RELEASED] Bayesian posterior / Haplotypes
+10. [TO BE RELEASED] Bootstrap / Proportional hazards on liver disease data
 
 11. [TO BE RELEASED] Flat priors / Chemical kinetics 
 
@@ -62,6 +62,7 @@ Special dates
 - Instead we will have [LET'S PICK ONE:]
   * out-of-class recorded lectures. These will be released throughout the quarter.
   * A bonus class Tue, Jun 10, 1:30-3:30pm	(our exam slot)
+
 
 ## Reading
 
