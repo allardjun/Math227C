@@ -30,25 +30,25 @@ This course, MATH 227C, is in two parts: the first covers stochastic processes, 
 
 ## Problem sets
 
-1. [Probability events / Protein-protein interaction network](ProblemSets_PartI/Math227C_P1.pdf)
+1. [TO BE RELEASED] Probability events / Protein-protein interaction network
 
-2. [Discrete Markov chains / Introns and exons](ProblemSets_PartI/Math227C_P2.pdf)
+2. [TO BE RELEASED] Discrete Markov chains / Introns and exons, histone unwrapping, umbrellas
 
-3. [Mean first passage / Histone unwrapping, umbrellas](ProblemSets_PartI/Math227C_P3.pdf)
+3. [TO BE RELEASED] Poisson processes / Two point mutations, my advisor is late
 
-4. [Poisson processes / Two point mutations, my advisor is late](ProblemSets_PartI/Math227C_P4.pdf)
+4. [TO BE RELEASED] Continuous-time Markov chain / Receptor-ligand binding
 
-5. [Continuous-time Markov chain / Receptor-ligand binding](ProblemSets_PartI/Math227C_P5.pdf)
+5. [TO BE RELEASED] Heterogeneity in a population
 
-6. [Heterogeneity in a population](ProblemSets_PartI/Math227C_P6.pdf)
+6. [TO BE RELEASED] Allometric scaling in pediatric pharmacokinetics
 
-7. [TO BE RELEASED] Allometric scaling in pediatric pharmacokinetics
+7. [TO BE RELEASED] The variance-bias tradeoff / Flow cytometry
 
-8. [TO BE RELEASED] The variance-bias tradeoff / Flow cytometry
+8. [TO BE RELEASED] High-dimensional data / Microbiome
 
-9. [TO BE RELEASED] High-dimensional data / Microbiome
+9. [TO BE RELEASED] Cox proportional hazards on liver disease data
 
-10. [TO BE RELEASED] Bootstrap / Proportional hazards on liver disease data
+10. [TO BE RELEASED] Bayesian posterior / Haplotypes
 
 11. [TO BE RELEASED] Flat priors / Chemical kinetics 
 
@@ -62,4 +62,34 @@ Special dates
 - Instead we will have [LET'S PICK ONE:]
   * out-of-class recorded lectures. These will be released throughout the quarter.
   * A bonus class Tue, Jun 10, 1:30-3:30pm	(our exam slot)
+
+## Reading
+
+There is no required textbook for the course. However, the following textbooks are recommended for further reading.
+
+
+
+* Wan, F. Stochastic Models in the Life Sciences
+* Ross, S. Introduction to probability models. Academic press.
+* [Tibshirani, R, An Introduction to Statistical Learning](https://www.statlearning.com/) free online. 
+* [Huber and Holmes, Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) free online.
+* [Goodfellow, I., Bengio, Y., & Courville, A. Deep learning.](https://www.deeplearningbook.org/) free online.
+
+A rough correspondence between topics and textbooks is given below.
+
+| Topic | Textbooks |
+| --- | --- |
+| Probability basics | Goodfellow3, Ross1,2 |
+| Discrete Markov chains | Wan2, Ross4  | 
+| First-passage a.k.a. first-hitting | Wan3, Ross4 | 
+| Poisson processes | Wan5, Ross5.3 | 
+| Continuous-time Markov chain | Ross6 | 
+| Heterogeneity | Wan9 | 
+| Variance-bias tradeoff (aka bias-variance tradeoff) | James2.2, James5.1, Huber12.6 | 
+|  k-nearest-neighbors |  James4, Huber5.6, Huber12.6 | 
+| Logistic regression | James4.3 | 
+| LASSO | James6, Huber12, Goodfellow7 | 
+| Bootstrap | James5 | 
+| Cross-validation | James5 | 
+| MCMC | Goodfellow17 | 
 
