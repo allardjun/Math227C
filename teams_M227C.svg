@@ -5,26 +5,26 @@
 </defs>
 <rect x="17" y="17" width="80" height="75" fill="#ffffff" stroke-width="2" stroke="black" />
 <text x="22" y="34" font-size="12" fill="black">Team Lectern</text>
-<text x="22" y="46" font-size="12" fill="black">Ethan</text>
-<text x="22" y="58" font-size="12" fill="black">Gautham</text>
-<text x="22" y="70" font-size="12" fill="black">Xinyi</text>
-<text x="22" y="82" font-size="12" fill="black">Caleb</text>
+<text x="22" y="46" font-size="12" fill="black">Melika</text>
+<text x="22" y="58" font-size="12" fill="black">Ana</text>
+<text x="22" y="70" font-size="12" fill="black">Clara</text>
+<text x="22" y="82" font-size="12" fill="black">Ethan</text>
 <rect x="107" y="17" width="80" height="75" fill="#ffffff" stroke-width="2" stroke="black" />
 <text x="112" y="34" font-size="12" fill="black">Team B</text>
-<text x="112" y="46" font-size="12" fill="black">Akarsh</text>
-<text x="112" y="58" font-size="12" fill="black">Shing</text>
-<text x="112" y="70" font-size="12" fill="black">Ana</text>
-<text x="112" y="82" font-size="12" fill="black">Patrick</text>
+<text x="112" y="46" font-size="12" fill="black">Ashish</text>
+<text x="112" y="58" font-size="12" fill="black">Gautham</text>
+<text x="112" y="70" font-size="12" fill="black">Yun</text>
+<text x="112" y="82" font-size="12" fill="black">Xinyi</text>
 <rect x="197" y="17" width="80" height="75" fill="#ffffff" stroke-width="2" stroke="black" />
 <text x="202" y="34" font-size="12" fill="black">Team C</text>
-<text x="202" y="46" font-size="12" fill="black">Kate</text>
-<text x="202" y="58" font-size="12" fill="black">Melika</text>
-<text x="202" y="70" font-size="12" fill="black">Sinai</text>
-<text x="202" y="82" font-size="12" fill="black">Clara</text>
+<text x="202" y="46" font-size="12" fill="black">Akarsh</text>
+<text x="202" y="58" font-size="12" fill="black">Sinai</text>
+<text x="202" y="70" font-size="12" fill="black">Chelsea</text>
+<text x="202" y="82" font-size="12" fill="black">Kate</text>
 <rect x="287" y="17" width="80" height="63" fill="#ffffff" stroke-width="2" stroke="black" />
 <text x="292" y="34" font-size="12" fill="black">Team Exit</text>
-<text x="292" y="46" font-size="12" fill="black">Chelsea</text>
-<text x="292" y="58" font-size="12" fill="black">Yun</text>
-<text x="292" y="70" font-size="12" fill="black">Ashish</text>
-<text x="5" y="10" font-size="12" fill="black">Tuesday, 1 April</text>
+<text x="292" y="46" font-size="12" fill="black">Patrick</text>
+<text x="292" y="58" font-size="12" fill="black">Shing</text>
+<text x="292" y="70" font-size="12" fill="black">Caleb</text>
+<text x="5" y="10" font-size="12" fill="black">Wednesday, 2 April</text>
 </svg>
