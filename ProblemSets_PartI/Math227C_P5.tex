@@ -1,0 +1,74 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage{amsmath,amsthm,amsfonts,amssymb,amscd}
+\usepackage{fullpage}
+\usepackage{lastpage}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\usepackage{mathrsfs}
+\usepackage[margin=3cm,bottom=6cm]{geometry}
+\usepackage{wrapfig}
+\usepackage{graphicx}
+
+\setlength{\parindent}{0.0in}
+\setlength{\parskip}{0.05in}
+
+\renewcommand{\theenumi}{\bf\Alph{enumi}}
+
+
+% Edit these as appropriate
+\newcommand\course{Math 227C}
+\newcommand\semester{Spring 2019}     % <-- current semester
+\newcommand\hwnum{3}                  % <-- homework number
+\newcommand\yourname{Jun Allard} % <-- your name
+%\newcommand\login{jcarberr}           % <-- your CS login
+
+\newenvironment{answer}[1]{
+  \subsubsection*{Problem \hwnum.#1}
+}{\newpage}
+
+\pagestyle{fancyplain}
+\headheight 35pt
+\lhead{ \course\ }
+\chead{\textbf{ Problem Set 5}}
+%\rhead{Due {\bf Friday, May 11th}}
+\headsep 20pt
+
+\begin{document}
+
+The surface of a cell has a receptor where ligands become attached. 
+
+\begin{enumerate}
+
+%%%%%%%%%%%%%% PROBLEM %%%%%%%%%%%%%%%%%%
+
+\item For antigen-detecting receptors like the T Cell Receptor, these ligands come in two types: agonists and antagonists. 
+Assume that molecules arrive according to a Poisson process with rate $\lambda$ (in units of per-seconds). 
+Among these molecules, a proportion $\alpha$ are agonists (so $0\leq \alpha \leq 1$) and the rest are antagonists. 
+Antagonists remain attached for an exponentially-distributed duration with rate parameter $\mu_1$ (in units of per-seconds), while agonists remain attached for an exponentially-distributed duration with rate parameter $\mu_2$ (in units of per-seconds). 
+An arriving molecule only becomes attached if the receptor is free of other molecules. 
+
+In the long run, what is the percentage of time the receptor is occupied by an agonist? By an antagonist? Free?
+
+\item \textbf{[BONUS]} For this part, assume there is only one type of ligand. The ligand binds to the receptor at rate $\lambda$ and unbinds at rate $\mu$. Once the ligand is bound, the receptor initiates an intracellular signal at rate $k$, but it can only do this while a ligand is bound. 
+
+\begin{enumerate}
+\item Write a 3-state continuous-time Markov transition matrix to describe this process. 
+
+\item Suppose that at time $t=0$, there is a ligand bound to the receptor. How long on average until a signal is transduced?
+
+\item Suppose that the receptor's kinetics are controlled by a control variable, so that $\lambda = c \lambda^\star$ and $\mu = c\mu^\star$. Again suppose the system starts with a ligand bound. Assume receptor kinetics have been slowed to approximately zero speed, so $c=0$, i.e., $\lambda=\mu=0$. In other words, the ligand is very unlikely to ever unbind.
+
+\begin{enumerate}
+\item According to your intuition, what is the mean time until a signal is transduced?
+\item Set $\lambda=\mu=0$ in the transition matrix. What is the mean time until a signal is transduced? Does this agree with your intuition?
+\item Set $\lambda=\mu=0$ in your answer from Part (b). What is the mean time until a signal is transduced? Does this agree with your intuition?
+\end{enumerate}
+
+\end{enumerate}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\end{enumerate}
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 

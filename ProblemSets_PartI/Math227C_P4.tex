@@ -1,0 +1,73 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage{amsmath,amsthm,amsfonts,amssymb,amscd}
+\usepackage{fullpage}
+\usepackage{lastpage}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\usepackage{mathrsfs}
+\usepackage[margin=3cm,bottom=6cm]{geometry}
+\usepackage{wrapfig}
+\usepackage{graphicx}
+
+\setlength{\parindent}{0.0in}
+\setlength{\parskip}{0.05in}
+
+\renewcommand{\theenumi}{\bf\Alph{enumi}}
+
+
+% Edit these as appropriate
+\newcommand\course{Math 227C}
+\newcommand\semester{Spring 2019}     % <-- current semester
+\newcommand\hwnum{2}                  % <-- homework number
+\newcommand\yourname{Jun Allard} % <-- your name
+%\newcommand\login{jcarberr}           % <-- your CS login
+
+\newenvironment{answer}[1]{
+  \subsubsection*{Problem \hwnum.#1}
+}{\newpage}
+
+\pagestyle{fancyplain}
+\headheight 35pt
+\lhead{ \course\  }
+\chead{\textbf{ Problem Set 4}}
+%\rhead{Due {\bf Friday, April 27th}}
+\headsep 20pt
+
+\begin{document}
+
+
+\begin{enumerate}
+
+
+%%%%%%%%%%%%%% PROBLEM %%%%%%%%%%%%%%%%%%
+\item Your advisor has scheduled two appointments with two graduate students, one at 1pm and the other at 1:30pm. The amounts of time that appointments last are independent exponential random variables with mean of 30 minutes. Assuming both graduate students arrive on time, find the expected amount of time that the 2nd grad student spends waiting outside the advisor's office (and/or Zoom meeting waiting room).
+
+
+%%%%%%%%%%%%%% PROBLEM %%%%%%%%%%%%%%%%%%
+\item The ``two-hit hypothesis'' was a model of cancer that assumes that two mutations are required for a normal cell to exhibit cancerous behavior.
+Although the two-hit hypothesis is an oversimplification, it led indirectly to the discovery of tumor suppressor genes.
+% Although the two-hit hypothesis is an oversimplification, it led indirectly to the discovery of tumor suppressor genes \cite{tumor_suppressor}.
+
+Suppose there are two genes, Gene A and Gene B, each of which undergoes mutation at rate $\lambda$ (in units of, say, mutations per year).  
+
+\begin{enumerate}[i.]
+    \item How long, on average, until (either) one of the genes has mutated? 
+    \item How long, on average, until both genes have mutated? 
+    (Hint: Another question one might ask is, unrealistically, if Gene B could only mutate after Gene A had mutated, how long on average until both genes have mutated?)
+\end{enumerate}
+
+
+Now suppose the mutation rates for the two genes are different, $\lambda_A$ and $\lambda_B$.
+
+\begin{enumerate}[i.]
+  \setcounter{enumii}{2}
+  \item How long, on average, until (either) one of the genes has mutated? 
+  \item How long, on average, until both genes have mutated?
+\end{enumerate}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{enumerate}
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
