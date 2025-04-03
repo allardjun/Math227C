@@ -68,10 +68,8 @@ Special dates
 
 There is no required textbook for the course. However, the following textbooks are recommended for further reading.
 
-
-
 * Wan, F. Stochastic Models in the Life Sciences
-* Ross, S. Introduction to probability models. Academic press.
+* Ross, S. Introduction to Probability Models. Academic press.
 * [James, Tibshirani, R, An Introduction to Statistical Learning](https://www.statlearning.com/) free online. 
 * [Huber and Holmes, Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) free online.
 * [Goodfellow, I., Bengio, Y., & Courville, A. Deep learning.](https://www.deeplearningbook.org/) free online.
