@@ -58,7 +58,7 @@ This course, MATH 227C, is in two parts: the first covers stochastic processes, 
 Special dates
 
 - There will be no lecture Friday, April 25th (week 4). 
-- There will be no lecture Monday, May 5th (wk 6).
+- There will be no lecture Monday, May 5th (week 6).
 - Instead we will have
   * [You picked:] out-of-class recorded lectures. These will be released throughout the quarter.
   * ~~A bonus class Tue, Jun 10, 1:30-3:30pm	(our exam slot)~~
