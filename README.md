@@ -44,7 +44,7 @@ This course, MATH 227C, is in two parts: the first covers stochastic processes, 
 
 7. [Allometric scaling in pediatric pharmacokinetics](ProblemSets_PartII/Math227C_P7.ipynb)
 
-8. [TO BE RELEASED] The variance-bias tradeoff / Flow cytometry
+8. [The variance-bias tradeoff / Flow cytometry](ProblemSets_PartII/Math227C_P8.ipynb)
 
 9. [TO BE RELEASED] High-dimensional data / Microbiome
 
