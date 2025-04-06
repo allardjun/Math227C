@@ -50,7 +50,7 @@ This course, MATH 227C, is in two parts: the first covers stochastic processes, 
 
 10. [TO BE RELEASED] Bootstrap / Proportional hazards on liver disease data
 
-11. [TO BE RELEASED] Flat priors / Chemical kinetics 
+11. [Flat priors / Chemical kinetics](ProblemSets_PartII/Math227C_P11.ipynb) 
 
 
 ## Scheduling
