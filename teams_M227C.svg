@@ -1,42 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 380 100">
-  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
-  <defs>
-    <style>
-      .st0 {
-        font-family: ArialMT, Arial;
-        font-size: 12px;
-        isolation: isolate;
-      }
-
-      .st1 {
-        fill: #fff;
-        stroke: #000;
-        stroke-width: 2px;
-      }
-    </style>
-  </defs>
-  <rect class="st1" x="17" y="17" width="80" height="75"/>
-  <text class="st0" transform="translate(22 34)"><tspan x="0" y="0">Team Lectern</tspan></text>
-  <text class="st0" transform="translate(22 46)"><tspan x="0" y="0">Kate</tspan></text>
-  <text class="st0" transform="translate(22 58)"><tspan x="0" y="0">Akarsh</tspan></text>
-  <text class="st0" transform="translate(22 70)"><tspan x="0" y="0">Yun</tspan></text>
-  <text class="st0" transform="translate(22 82)"><tspan x="0" y="0">Chelsea</tspan></text>
-  <rect class="st1" x="107" y="17" width="80" height="75"/>
-  <text class="st0" transform="translate(112 34)"><tspan x="0" y="0">Team B</tspan></text>
-  <text class="st0" transform="translate(112 46)"><tspan x="0" y="0">Melika</tspan></text>
-  <text class="st0" transform="translate(112 58)"><tspan x="0" y="0">Ethan</tspan></text>
-  <text class="st0" transform="translate(112 70)"><tspan x="0" y="0">Ana</tspan></text>
-  <text class="st0" transform="translate(112 82)"><tspan x="0" y="0">Shing</tspan></text>
-  <rect class="st1" x="197" y="17" width="80" height="75"/>
-  <text class="st0" transform="translate(202 34)"><tspan x="0" y="0">Team C</tspan></text>
-  <text class="st0" transform="translate(202 46)"><tspan x="0" y="0">Caleb</tspan></text>
-  <text class="st0" transform="translate(202 58)"><tspan x="0" y="0">Clara</tspan></text>
-  <text class="st0" transform="translate(202 71)"><tspan x="0" y="0">Gautham</tspan></text>
-  <rect class="st1" x="287" y="17" width="80" height="63"/>
-  <text class="st0" transform="translate(292 34)"><tspan x="0" y="0">Team Exit</tspan></text>
-  <text class="st0" transform="translate(292 46)"><tspan x="0" y="0">Ashish</tspan></text>
-  <text class="st0" transform="translate(292 58)"><tspan x="0" y="0">Sinai</tspan></text>
-  <text class="st0" transform="translate(292 70)"><tspan x="0" y="0">Xinyi</tspan></text>
-  <text class="st0" transform="translate(5 10)"><tspan x="0" y="0">Monday, 7 April</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="380" height="100" viewBox="0 0 380 100" displayInline="False">
+<defs>
+</defs>
+<rect x="17" y="17" width="80" height="75" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="22" y="34" font-size="12" fill="black">Team Lectern</text>
+<text x="22" y="46" font-size="12" fill="black">Clara</text>
+<text x="22" y="58" font-size="12" fill="black">Ashish</text>
+<text x="22" y="70" font-size="12" fill="black">Ana</text>
+<text x="22" y="82" font-size="12" fill="black">Caleb</text>
+<rect x="107" y="17" width="80" height="75" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="112" y="34" font-size="12" fill="black">Team B</text>
+<text x="112" y="46" font-size="12" fill="black">Chelsea</text>
+<text x="112" y="58" font-size="12" fill="black">Ethan</text>
+<text x="112" y="70" font-size="12" fill="black">Yun</text>
+<text x="112" y="82" font-size="12" fill="black">Kate</text>
+<rect x="197" y="17" width="80" height="75" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="202" y="34" font-size="12" fill="black">Team Projector</text>
+<text x="202" y="46" font-size="12" fill="black">Patrick</text>
+<text x="202" y="58" font-size="12" fill="black">Sinai</text>
+<text x="202" y="70" font-size="12" fill="black">Melika</text>
+<text x="202" y="82" font-size="12" fill="black">Xinyi</text>
+<rect x="287" y="17" width="80" height="63" fill="#ffffff" stroke-width="2" stroke="black" />
+<text x="292" y="34" font-size="12" fill="black">Team Green Board</text>
+<text x="292" y="46" font-size="12" fill="black">Shing</text>
+<text x="292" y="58" font-size="12" fill="black">Gautham</text>
+<text x="292" y="70" font-size="12" fill="black">Akarsh</text>
+<text x="5" y="10" font-size="12" fill="black">Friday, 11 April</text>
 </svg>
