@@ -48,7 +48,7 @@ This course, MATH 227C, is in two parts: the first covers stochastic processes, 
 
 9. [High-dimensional data / Microbiome](ProblemSets_PartII/Math227C_P9.ipynb)
 
-10. [TO BE RELEASED] Bootstrap / Proportional hazards on liver disease data
+10. [Bootstrap / Proportional hazards on breast cancer data](ProblemSets_PartII/Math227C_P10.ipynb)
 
 11. [Flat priors / Chemical kinetics](ProblemSets_PartII/Math227C_P11.ipynb) 
 
