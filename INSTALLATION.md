@@ -37,13 +37,34 @@ VS Code provides an excellent environment for working with Jupyter notebooks and
    IRkernel::installspec()
    ```
 
-3. **Fork and Clone the Course Repository**
+      - For Conda user: If you receive an error message mentioned that jupyter-client has to be installed, follow the step below.
+   
+         Window:
+         1. Open conda commend line. You can find it in the start menu (press window key) -> Anaconda -> Anaconda Prompt.
+         2. Run "conda install jupyter_client" to install jupyter-client.
+         3. Run "R" to run R session in the Conda session. If fail, try to run the R executable file. It may look like ""C:\Program Files\R\4.5.0\bin\R.exe"". Note that " is required to handle the space in the path.
+         4. Run "IRkernel::installspec()".
+
+         Mac:
+         1. Open Terminal.
+         3. Run "conda install jupyter_client" to install jupyter-client.
+         4. Run "R" to run R session in the Conda session.
+         5. Run "IRkernel::installspec()".
+
+      - For Jupyter user: If you receive an error message mentioned that jupyter-client has to be installed, make sure you have install Jupyter and can be found in the PATH environment variable. Note that Jupyter in VSCode is not in the PATH environment variable.
+  
+      - Untested method:
+         1. In VSCode console, run "R" or R executable file to start R session.
+         2. Then run "install.packages(c("IRkernel", "tidyverse", "devtools"))" and "IRkernel::installspec()" in the VSCode terminal. VSCode session will automatically add the path of Jupyter in VSCode session.
+
+
+4. **Fork and Clone the Course Repository**
    - Go to the course GitHub repository at `github.com/allardjun/Math227C`
    - Click the "Fork" button in the top right to create your own copy
    - In VS Code, press Ctrl+Shift+P (or Cmd+Shift+P on Mac) and type "Git: Clone"
    - Enter the URL of your forked repository and choose a local folder
 
-4. **Open Notebooks in VS Code**
+5. **Open Notebooks in VS Code**
    - Navigate to your cloned repository folder
    - Open any `.ipynb` file
    - When prompted, select the R kernel
